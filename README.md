@@ -87,9 +87,3 @@ Cloudflare Pages 配置：
 ## 联系方式
 
 如有任何问题或需要支持，请联系开发团队：support@trustavo.com。
-
-## 说明
-
-- 构建和部署说明部分详细记录了如何配置 Cloudflare Pages，以及如何在本地进行开发和测试。
-- 技术栈部分明确指定了使用 React 和 TypeScript，帮助后续开发保持一致。
-- 联系方式部分提供了支持渠道，便于团队内部和外部的沟通。
